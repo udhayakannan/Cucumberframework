@@ -1,0 +1,11 @@
+.idea
+
+.DS_Store
+node_modules/
+npm-debug.log
+
+node_modules
+.vscode
+util-examples/drivers
+allure-reporter-debug.log
+test/reports
